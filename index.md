@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Cory's ITEC-67438 GitHub Page
 
-You can use the [editor on GitHub](https://github.com/cjb129/ITEC-67438/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Background
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Cory Boveington. This is my first class in the ITEC program. I look forward to meeting all of you online.
+I live in Cuyahoga Falls, OH and I work at Kent State as an Associate Application Developer. I graduated from The University of Akron with a Bachellor's in Computer Science. I have no background in education or instructional design.
 
-### Markdown
+### Hobbies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I enjoy reading, target shooting with a bow and arrow, and playing with my cat. I also love programming and all things related. My favorite book is probably Fight Club, by Chuck Palahniuk, because it's quick and exciting. If I had to choose a favorite series it would be A Song of Ice and Fire.
 
-```markdown
-Syntax highlighted code block
+### Travels
 
-# Header 1
-## Header 2
-### Header 3
+In high school I travelled to Argentina for 1 year during my junior year. I've been to Colorado a few times to visit friends and family. My sister lives in South Carolina, so I frequently visit Hilton Head as well.
 
-- Bulleted
-- List
+### Goals
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cjb129/ITEC-67438/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'd love to work for an educational tech company. Kahn Academy, edX, Coursera, Udacity, Pluralsight, Lynda. Those are some of the bigger companies, but I'm sure there's a ton of others out there. Part of the reason I enrolled in this program was to gain some domain specific knowledge in ed tech.
