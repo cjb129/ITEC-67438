@@ -1,5 +1,8 @@
 ## Welcome to Cory's ITEC-67438 GitHub Page
 
+![Cory]
+(https://github.com/cjb129/ITEC-67438/BoveingtonCory.jpg "Cory Boveington")
+
 ### Background
 
 My name is Cory Boveington. This is my first class in the ITEC program. I look forward to meeting all of you online.
