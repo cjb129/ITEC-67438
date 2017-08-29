@@ -7,7 +7,7 @@ I live in Cuyahoga Falls, OH and I work at Kent State as an Associate Applicatio
 
 ### Hobbies
 
-I enjoy reading, target shooting with a bow and arrow, and playing with my cat. I also love programming and all things related. My favorite book is probably Fight Club, by Chuck Palahniuk, because it's quick and exciting. If I had to choose a favorite series it would be A Song of Ice and Fire.
+I enjoy reading, target shooting with a bow and arrow, and playing with my cat. ```I also love programming``` and all things related. My favorite book is probably Fight Club, by Chuck Palahniuk, because it's quick and exciting. If I had to choose a favorite series it would be A Song of Ice and Fire.
 
 ### Travels
 
