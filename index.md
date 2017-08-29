@@ -1,6 +1,6 @@
 ## Welcome to Cory's ITEC-67438 GitHub Page
 
-![Cory](https://github.com/cjb129/ITEC-67438/BoveingtonCory.jpg)
+<img src="https://github.com/cjb129/ITEC-67438/blob/master/BoveingtonCory.jpg" height="150" />
 
 ### Background
 
